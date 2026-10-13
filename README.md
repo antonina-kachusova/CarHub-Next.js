@@ -11,6 +11,7 @@
 CarHub is a responsive car catalogue application built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Headless UI**.
 
 The application allows users to browse cars, search by manufacturer and model, filter results by fuel type and production year, view detailed car information in a modal window, and load more results with pagination-style behavior.
+The web application is fully responsive and works correctly on mobile devices, tablets, and desktop screens.
 
 ## Live Demo
 
@@ -337,6 +338,7 @@ The application depends on external APIs and an internet connection to load car 
 CarHub — це адаптивний каталог автомобілів, створений за допомогою **Next.js**, **React**, **TypeScript**, **Tailwind CSS** та **Headless UI**.
 
 Застосунок дозволяє переглядати автомобілі, шукати їх за виробником і моделлю, фільтрувати за типом пального та роком випуску, переглядати детальну інформацію про авто у модальному вікні та завантажувати більше результатів.
+Вебзастосунок повністю адаптивний і коректно працює на мобільних пристроях, планшетах та десктопних екранах.
 
 ## Демо
 
